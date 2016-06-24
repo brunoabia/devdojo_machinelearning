@@ -1,0 +1,7 @@
+sudo apt-get install python3-setuptools
+sudo apt-get install python3-pip
+pip3 install tweepy
+sudo pip3.4 install -U numpy
+sudo pip3.4 install -U nltk
+sudo pip3.4 install SciPy
+sudo pip3.4 install -U scikit-learn
